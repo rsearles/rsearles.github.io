@@ -1,12 +1,7 @@
 # rsearles.github.io
-<!DOCTYPE html>
+
 <html lang="en">
 
-<head>
-    <meta charset="utf-8">
-    <title>beccabigwords.eth | home</title>
-    <link rel="stylesheet" href="css/main.css">
-</head>
 
 <body>
 Hi, wow, you made it. Welcome to my dweb page.
