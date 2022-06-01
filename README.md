@@ -1,5 +1,3 @@
-# rsearles.github.io
-
 <html lang="en">
 
 
@@ -17,5 +15,3 @@ I'm a product manager and a journalist.
 </body>
 
 </html>
-© 2022 GitHub, Inc.
-Terms
